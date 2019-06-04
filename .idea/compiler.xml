@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecloud-api" />
         <module name="microservicecloud-eureka" />
+        <module name="microservicecloud-provider-dept-8001" />
       </profile>
     </annotationProcessing>
   </component>

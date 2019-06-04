@@ -14,6 +14,7 @@
     <modules>
         <module>microservicecloud-api</module>
         <module>microservicecloud-eureka</module>
+        <module>microservicecloud-provider-dept-8001</module>
     </modules>
 
     <parent>
